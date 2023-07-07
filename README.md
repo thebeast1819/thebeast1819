@@ -19,8 +19,6 @@
 
 - 🔭 I’m 3rd year undergrad student from IIITM Gwalior
   
-- 🌱 I’m currently learning GoLang and exploring open source
-  
 - 💬 Ask me about C++,ReactJs,NodeJS
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
