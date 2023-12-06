@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m 3rd year undergrad student from IIITM Gwalior
+- 🔭 I’m 4th year undergrad student from IIITM Gwalior
   
 - 💬 Ask me about C++,ReactJs,NodeJS
 
